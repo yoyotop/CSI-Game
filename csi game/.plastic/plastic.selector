@@ -1,0 +1,4 @@
+repository "csi game@yoyojr10@cloud"
+  path "/"
+    br "/main"
+    co "/main"
